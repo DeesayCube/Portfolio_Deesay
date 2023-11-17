@@ -19,36 +19,34 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            I like programming, and I've learned a bit, I think. 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I'm still in the learning process
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> C++, Javascript and Php. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              As a student, I'm really into creating new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Web Technologies </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Software.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              I'm currently a student at MSU Naawan, pursuing a <b className="purple" Bachelor of Science in Information Technology </b> with a 
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  focus 
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; on
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> Database Management </b>
               </i>
             </p>
           </Col>
