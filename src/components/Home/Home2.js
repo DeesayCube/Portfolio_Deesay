@@ -37,7 +37,8 @@ function Home2() {
               </i>
               <br />
               <br />
-              I'm currently a student at MSU Naawan, pursuing a <b className="purple" Bachelor of Science in Information Technology </b> with a 
+              Im currently a student at MSU NAAWAN, pursuing Bachelor of Science
+              <b className="purple"> in Information Technology</b> with a 
               <i>
                 <b className="purple">
                   {" "}
@@ -46,7 +47,7 @@ function Home2() {
               </i>
               &nbsp; on
               <i>
-                <b className="purple"> Database Management </b>
+                <b className="purple"> Database Management. </b>
               </i>
             </p>
           </Col>
