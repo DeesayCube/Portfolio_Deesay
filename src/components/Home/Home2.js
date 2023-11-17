@@ -45,7 +45,7 @@ function Home2() {
                   projects I'm tackling 
                 </b>
               </i>
-              &nbsp;as I sharpen my skills
+              &nbsp;as I sharpen my skills.
               <i>
                 <b className="purple"> Let's grow together in the world of coding! </b>
               </i>
