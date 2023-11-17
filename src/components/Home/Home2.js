@@ -37,17 +37,17 @@ function Home2() {
               </i>
               <br />
               <br />
-              Im currently a student at MSU NAAWAN, pursuing Bachelor of Science
-              <b className="purple"> in Information Technology</b> with a 
+              Join me on my journey as I explore and learn the ropes of programming
+              <b className="purple"> This portfolio is a snapshot of my progress </b> and the
               <i>
                 <b className="purple">
                   {" "}
-                  focus 
+                  projects I'm tackling 
                 </b>
               </i>
-              &nbsp; on
+              &nbsp;as I sharpen my skills
               <i>
-                <b className="purple"> Database Management. </b>
+                <b className="purple"> Let's grow together in the world of coding! </b>
               </i>
             </p>
           </Col>

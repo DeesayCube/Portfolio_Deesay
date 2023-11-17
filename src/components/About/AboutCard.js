@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Daisy Rei Cube </span>
             from <span className="purple"> Iligan City, Philippines.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently a student taking up Bachelor Of Science major in Database Management at MSU NAAWAN.
             <br />
             I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
             Mesra.
