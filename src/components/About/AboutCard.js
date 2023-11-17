@@ -13,28 +13,29 @@ function AboutCard() {
             <br />
             I am currently a student taking up Bachelor Of Science major in Database Management at MSU NAAWAN.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            <br />
+            I'm a 21-year-old third child in my family, navigating the adventure of self-discovery with a dash of cool and cute vibes.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Cooking
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Photography
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Reading
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+          Commit to Jehovah whatever you do,
+And your plans will succeed.{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Proverbs 16:3</footer>
         </blockquote>
       </Card.Body>
     </Card>
