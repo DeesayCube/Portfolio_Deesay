@@ -37,7 +37,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Join me on my journey as I explore and learn the ropes of programming
+              Join me on my journey as I explore and learn the ropes of programming.
               <b className="purple"> This portfolio is a snapshot of my progress </b> and the
               <i>
                 <b className="purple">
