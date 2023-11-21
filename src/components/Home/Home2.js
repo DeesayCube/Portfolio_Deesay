@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -19,9 +19,10 @@ function Home2() {
               LET ME <span className="purple"> Share a Bit </span> Who I am
             </h1>
             <p className="home-about-body">
-            I like programming, and I've learned a bit, I think. 🤷‍♂️
+              I like programming, and I've learned a bit, I think. 🤷‍♂️
               <br />
-              <br />I'm still in the learning process
+              <br />
+              I'm still in the learning process
               <i>
                 <b className="purple"> C++, Javascript and Php. </b>
               </i>
@@ -29,31 +30,37 @@ function Home2() {
               <br />
               As a student, I'm really into creating new &nbsp;
               <i>
-                <b className="purple">Web Technologies </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Software.
-                </b>
+                <b className="purple">Web Technologies </b> and also in areas
+                related to <b className="purple">Software.</b>
               </i>
               <br />
               <br />
-              Join me on my journey as I explore and learn the ropes of programming.
-              <b className="purple"> This portfolio is a snapshot of my progress </b> and the
+              Join me on my journey as I explore and learn the ropes of
+              programming.
+              <b className="purple">
+                {" "}
+                This portfolio is a snapshot of my progress{" "}
+              </b>{" "}
+              and the
               <i>
-                <b className="purple">
-                  {" "}
-                  projects I'm tackling 
-                </b>
+                <b className="purple"> projects I'm tackling</b>
               </i>
               &nbsp;as I sharpen my skills.
               <i>
-                <b className="purple"> Let's grow together in the world of coding! </b>
+                <b className="purple">
+                  {" "}
+                  Let's grow together in the world of coding!{" "}
+                </b>
               </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img
+                src="https://i.pinimg.com/736x/8e/6b/68/8e6b68305ad9a0fb88a27921d8c96d1f.jpg"
+                className="img-fluid"
+                alt="avatar"
+              />
             </Tilt>
           </Col>
         </Row>
